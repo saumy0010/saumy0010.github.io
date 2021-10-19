@@ -14,7 +14,7 @@ class CodeGithubComponent extends Component {
     render() {
         return (
             <div className="code-github">
-              <p className="headline">Look at my repository, my code is amazing</p>
+              <p className="headline">Wanna take a look at what I've built? Head over to my GitHub</p>
                 <Card>
                   <CardHeader
                     subtitle="Github Profile"
@@ -22,7 +22,7 @@ class CodeGithubComponent extends Component {
                     avatar="github.png"
                   />
                 <CardText>
-                        All my projects is availble here feel free to fork.
+                        All my projects are availble here; feel free to fork.
                     </CardText>
                     <CardActions>
                         <FlatButton label="View on github" href="https://github.com/saumy0010" target="_blank"/>
