@@ -22,7 +22,7 @@ class CodeGithubComponent extends Component {
                     avatar="github.png"
                   />
                 <CardText>
-                        All my projects are availble here; feel free to fork.
+                        All my projects are available here; feel free to fork.
                     </CardText>
                     <CardActions>
                         <FlatButton label="View on github" href="https://github.com/saumy0010" target="_blank"/>
