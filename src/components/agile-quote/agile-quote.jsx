@@ -10,7 +10,7 @@ class AgileQuoteComponent extends Component {
             <p className="quote">
               <span className="quote-marks">&ldquo;</span>
               <span className="quote-content">
-                Just try to live normal life.
+                Just try to live a normal life.
               </span>
               <span className="quote-author">- Unknown</span>
             </p>

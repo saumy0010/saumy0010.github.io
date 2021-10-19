@@ -47,27 +47,7 @@ class ProgrammingComponent extends Component {
                                           </li>
                                           <li>
                                             &lt;<span className="html-1">li</span>&gt;
-                                            <span className="html-2">React</span>
-                                            &lt;/<span className="html-1">li</span>&gt;
-                                          </li>
-                                          <li>
-                                            &lt;<span className="html-1">li</span>&gt;
-                                            <span className="html-2">Bootstrap</span>
-                                            &lt;/<span className="html-1">li</span>&gt;
-                                          </li>
-                                          <li>
-                                            &lt;<span className="html-1">li</span>&gt;
-                                            <span className="html-2">Python3</span>
-                                            &lt;/<span className="html-1">li</span>&gt;
-                                          </li>
-                                          <li>
-                                            &lt;<span className="html-1">li</span>&gt;
-                                            <span className="html-2">C, C++</span>
-                                            &lt;/<span className="html-1">li</span>&gt;
-                                          </li>
-                                          <li>
-                                            &lt;<span className="html-1">li</span>&gt;
-                                            <span className="html-2">Firebase</span>
+                                            <span className="html-2">React.js</span>
                                             &lt;/<span className="html-1">li</span>&gt;
                                           </li>
                                           <li>
@@ -77,7 +57,27 @@ class ProgrammingComponent extends Component {
                                           </li>
                                           <li>
                                             &lt;<span className="html-1">li</span>&gt;
-                                            <span className="html-2">Linux</span>
+                                            <span className="html-2">HTML5</span>
+                                            &lt;/<span className="html-1">li</span>&gt;
+                                          </li>
+                                          <li>
+                                            &lt;<span className="html-1">li</span>&gt;
+                                            <span className="html-2">CSS3</span>
+                                            &lt;/<span className="html-1">li</span>&gt;
+                                          </li>
+                                          <li>
+                                            &lt;<span className="html-1">li</span>&gt;
+                                            <span className="html-2">Bootstrap 4</span>
+                                            &lt;/<span className="html-1">li</span>&gt;
+                                          </li>
+                                          <li>
+                                            &lt;<span className="html-1">li</span>&gt;
+                                            <span className="html-2">Firebase</span>
+                                            &lt;/<span className="html-1">li</span>&gt;
+                                          </li>
+                                          <li>
+                                            &lt;<span className="html-1">li</span>&gt;
+                                            <span className="html-2">Python3</span>
                                             &lt;/<span className="html-1">li</span>&gt;
                                           </li>
                                           <li>
@@ -87,7 +87,12 @@ class ProgrammingComponent extends Component {
                                           </li>
                                           <li>
                                             &lt;<span className="html-1">li</span>&gt;
-                                            <span className="html-2">HTML5, CSS3</span>
+                                            <span className="html-2">C, C++</span>
+                                            &lt;/<span className="html-1">li</span>&gt;
+                                          </li>
+                                          <li>
+                                            &lt;<span className="html-1">li</span>&gt;
+                                            <span className="html-2">Linux</span>
                                             &lt;/<span className="html-1">li</span>&gt;
                                           </li>
                                           <li>

@@ -61,22 +61,29 @@ class TimelineComponent extends Component {
         return (
             <div className="timeline">
               <p className="headline">Experience</p>
-                <div className="timeline-entry">
-                  <Card>
-                      <CardHeader title="Web Developer Intern" subtitle="Qualyval"/>
-                      <CardText expandable={true}>
-                          August	2021 - September 2021. Web developer intern at Qualyval.
-                          <br/><br/>
-                           
-                      </CardText>
-                  </Card>
-                </div>
-                  <div className="timeline-entry">
-                    <Card expanded={this.state.expanded1} onExpandChange={this.handleExpandChange}>
-                        <CardHeader title="Student" subtitle="B.Tech (CSE)"
+              <div className="timeline-entry">
+                    <Card expanded={this.state.expanded} onExpandChange={this.handleExpandChange}>
+                        <CardHeader title="Web Development Intern" subtitle="Qualyval Pvt Ltd"
                           actAsExpander={true} showExpandableButton={true}/>
                         <CardText expandable={true}>
-                        At Babu Banarasi Das University, Lucknow 2018 - 2022.
+                        Worked on building the front-end of a patient management web app for a firm based out of United Kingdom.
+                        <br />
+                        <br />
+                        Aug 2021 - Oct 2021
+                  <br/><br/>
+                            
+                        </CardText>
+                    </Card>
+                  </div>
+                  <div className="timeline-entry">
+                    <Card expanded={this.state.expanded} onExpandChange={this.handleExpandChange}>
+                        <CardHeader title="Student" subtitle="B.Tech, CSE"
+                          actAsExpander={true} showExpandableButton={true}/>
+                        <CardText expandable={true}>
+                        Currently in the Senior Year of my Computer Engineering degree.
+                        <br />
+                        <br />
+                        Jul 2018 - Ongoing
                   <br/><br/>
                             
                         </CardText>
